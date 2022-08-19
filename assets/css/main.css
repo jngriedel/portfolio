@@ -3882,8 +3882,10 @@ input, select, textarea {
 	}
 
 
-.profile-img{
+.profile-img,
+.profile-caption{
 border-radius: 50%;
 height: 30rem;
 width: 35rem;
+margin-bottom: 30px;
 }
